@@ -1,9 +1,4 @@
-The basics of coding a
-
-SNACK MACHINE  
-With a Raspberry Pi 4 computer  
-By Henry Gramke  
-4-H 2024
+The basics of coding a Snack Machine with a Raspberry Pi 4 computer  
 
 # **Table of Contents** {#table-of-contents}
 
