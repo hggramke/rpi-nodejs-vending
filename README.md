@@ -1,4 +1,4 @@
-# **Rasberry Pi Vending Machine**
+# **Raspberry Pi Vending Machine**
 
 ## **Overview**
 
