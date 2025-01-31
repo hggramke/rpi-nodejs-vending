@@ -6,7 +6,10 @@ This project is a simple vending machine script created for a high school class 
 
 ## **Features**
 
-* **Web Interface:** Controlled by a display connected to the Raspberry Pi or an external device on the same network.  
+* **Web Interface:** Controlled by a display connected to the Raspberry Pi or an external device on the same network through socket-io 
 * **Node.js Server:** Handles on/off commands sent by the client (browser window).  
-* **Status LED:** Independent of the browser to avoid issues like server failure.  
-* **Customizable Interface:** Allows for potential integration with USB credit card readers.
+* **Status LED:** Independent of the browser to show status.
+* **Customizable Interface:** Allows for potential integration with payments.
+
+
+
